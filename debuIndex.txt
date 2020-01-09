@@ -1,4 +1,7 @@
+Conflict removed manually
 Master4
+Feature2
+Feature1
 Master1
 Master2
 Master3
